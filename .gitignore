@@ -1,0 +1,8 @@
+__pycache__/
+**/__pycache__/
+**/**/__pycache__/
+**/**/**/__pycache__/
+
+create_env_value.sh
+test_params_create
+file.json
